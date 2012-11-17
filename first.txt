@@ -1,5 +1,4 @@
-My first line of text
+My 1st line of text
 
 second line of text
 
-third line of text
